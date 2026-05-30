@@ -1,0 +1,236 @@
+﻿Warning: Setting up fake worker.
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+ 
+ 
+ΓÇó     Committed to continuous learning and delivering reliable, high-quality work. 
+collaborative environments. 
+ΓÇó     Effective communicator who values teamwork, clarity, and knowledge sharing in 
+ATTRIBUTES 
+PERSONAL                 ΓÇó     Adaptable  to new technologies and quick at grasping complex technical concepts. 
+ 
+ΓÇó     Class X ΓÇô 7.80 CGPA ΓÇô 2019 
+ΓÇó     Class XII ΓÇô 856 Marks ΓÇô 2021 
+EDUCATION         ΓÇó      B.E. (ECE) ΓÇôSathyabama University ΓÇô 7.36 CGPA ΓÇô 2021 ΓÇô2025 
+ 
+ 
+o    Linux kernel  system call
+o    Network programming using TCP and UDP sockets 
+o    IPC mechanisms  ΓÇô Pipe, FIFO, Shared  memory 
+ΓÇó     System Programming 
+o    Compilers  ΓÇô GCC, XC8, ARM-Linux-gcc 
+o    Development environment ΓÇô MPLAB 
+ΓÇó     Development Environment and Tools: 
+o    Communication protocols  - UART, SPI, I2C, CAN etc  
+o    Peripherals usage - Timers, Counters and Interrupts    
+o    Hands-on working with GPIOs, Analog I/Os, Memory usage, interfacing, character LCD  
+ΓÇó     Embedded controllers: 
+o    PIC Microcontroller (PIC16F877A) 
+o    Distributions  ΓÇô Linux (Ubuntu) 
+ΓÇó     Embedded Platforms: 
+o    Data structures 
+o    OOP using C++ 
+o    Advanced  C programming 
+SKILLS 
+TECHNICAL         ΓÇó     Programming Languages: 
+ 
+ 
+ 
+Engineer  QP ELE /Q1501  
+Electronics  Sector  Skill  Council  of  India  (  http://www.essc -india.org)   -  Embedded  Software 
+This  course  is  Government  of  India  certified  program,  aligned  with  Skill  India  /  NSDC  under 
+EXPERIENCE                 at Emertxe Information Technologies (http://www.emertxe.com) Bangalore. 
+WORK         ΓÇó     Currently undergoing a technical training program ΓÇô Advanced Embedded Systems Course 
+ 
+ 
+ 
+advancing my knowledge in embedded technologies.  
+to  innovative  hardware ΓÇôsoftware  integration  and  real  -time  applications  while  continuously 
+OBJECTIVE         system-level programming to  design efficient  and reliable  embedded systems.  I aim to contribute 
+CAREER         To build a career as an Embedded Engineer by leveraging my skills in C, C++, data structures, and 
+ 
+ 
+www.linkedin.com/in/penchala -eswar-potluru                  : https://github.com/Eswarp2004 
+LinkedIn:                                                                    Git Hub 
+Email: eswarp2004@gmail.com | Phone Number: 6303011329 |  Bangalore 
+ 
+PENCHALA  ESWAR POTLURU 
+ 
+ 
+ 
+----------------Page (0) Break----------------
+ 
+ 
+methodical debugging approaches in C programming 
+Γ£ô  Strengthened  skills  in  binary  file  parsing,  hexadecimal  data  interpretation,  and 
+handling. 
+correct  byte  order  conversion  (big-endian  to  little-endian)  and  proper  data  type 
+Γ£ô  Encountered program crashes when reading multi-byte fields, solved by ensuring 
+header analysis and accurate offset calculations 
+Key challenges & Learnings            Γ£ô  Faced difficulty parsing variable-length ID3v2 tag frames; resolved using frame 
+Functions, Command line arguments  
+Technologies used                           Advanced C ΓÇô File handling, Pointers, String operations, Bitwise operations, 
+ 
+can modify MP3 tag information.  
+command line. This project can be extended to implement a tag editor, wherein users 
+will read the given MP3 file, extract various tag information and display them via 
+from MP3 files. The software will be desktop based and not web based. This solution 
+Project brief                                      MP3 tag reader is a software which will read and display MP3 (ID3) tag information 
+Git Hub URL                                    https://github.com/Eswarp2004/mp3-tag-reader.git 
+Title                                                 MP3 Tag Reader 
+Project Number:3 
+of the compiler design process. 
+Γ£ô    Managing symbol table entries and token storage effectively to support further stages 
+identifiers using string comparison and pattern matching techniques.  
+Γ£ô    Developing  logic  to  differentiate  between  reserved  keywords  and  user -defined 
+by line for token generation.  
+Γ£ô    Implementing file handling techniques in C to read and process source code files line 
+into tokens such as keywords, identifiers, constants, operators, and symbols. 
+Γ£ô    Designing a lexical analysis mechanism to efficiently scan and classify source code 
+         Key challenges & Learnings 
+Libraries, GCC Compiler, Visual Studio Code/Code::Blocks.  
+Techniques, File Handling, String Processing Functions (FSA), Standard C 
+Technologies used                             C Programming, Compiler Design Concepts, Lexical Analysis, Tokenization 
+ 
+errors during tokenization.  
+file to generate tokens for the next stage of compilation, while handling possible 
+tokens such as keywords, identifiers, and symbols. This project processes a C source 
+Project brief                                      The Lexical Analyzer is a program that converts a stream of characters into lexical 
+Git Hub URL                                   https://github.com/Eswarp2004/l exical_analyzer.git 
+Title                                                   Lexical Analyzer 
+Project Number:2 
+RTC and EEPROM over a shared bus efficiently.  
+Γ£ô    Implementing I┬▓C-based communication to interface multiple peripherals such as 
+display modules using Embedded C in a real-time system. 
+Γ£ô    Developing  an  event  logging   mechanism   by  integrating  sensors,  keypad,  and 
+multiple event records effectively. 
+Key challenges & Learnings            Γ£ô    Handling non-volatile EEPROM memory constraints by organizing and storing 
+EEPROM, Embedded C 
+Technologies used                           PIC16F877A Microcontroller, I┬▓C communication Protocol, UART protocol, RTC, 
+ 
+records, enabling effective post-event analysis and investigation. 
+retention. During accidents or abnormal vehicle behavior, the system preserves vital 
+data is then stored in an external EEPROM, ensuring non-volatile and secure data 
+precise  timestamp  information  provided  by a Real-Time Clock (RTC). The collected 
+Various vehicle parameters are captured through sensors and synchronized with 
+and log critical vehicle data in real time using the I┬▓C communication protocol.      
+Project brief                                      This project involves the development of a Car Black Box system designed to monitor 
+Git Hub URL                                   https://github.com/Eswarp2004/car_black_box_project.git  
+Title                                                 Car Black Box 
+Project Number:1 
+PROJECTS AT EMERTXE 
+----------------Page (1) Break----------------
+ 
+accurate and secure data extraction 
+Γ£ô    Handled  encoding  and  decoding  of message length  and  magic  string to ensure 
+through practice and debugging. 
+Γ£ô    Faced difficulties with shifting and masking bits correctly,  which was resolved 
+image, improving usability and automation capability. 
+Γ£ô    Allowed  flexible  user  input  for  source  image,  secret  message  file,  and  output 
+by carefully manipulating only the least significant bits 
+Key challenges & Learnings            Γ£ô    Ensuring the embedded data did not alter the visible properties of the image; solved 
+ 
+Makefiles, command-line arguments 
+Technologies used                             Advanced C ΓÇô file operations, pointers, bitwise operations, dynamic memory, 
+ 
+ordinary images. 
+string to extract the original data, enabling secure communication through seemingly 
+message for accurate retrieval. The sender and receiver use a shared secret or magic 
+significant bits (LSB) of the image data, along with encoding the length of the 
+its visible properties. This was achieved by embedding the message into the least 
+Project  brief                                       The  objective  was to hide secret information within a BMP image file without altering 
+Git Hub URL                                    https://github.com/Eswarp2004/lsb   -steganography.git   
+Title                                                   Image Steganography using LSB Encoding and Decoding 
+Project Number:6 
+ 
+leading to segmentation faults.  
+Γ£ô    Faced challenges in function pointer declaration and correct address assignment, 
+implementation. 
+Γ£ô    Faced  challenges  with  memory  deallocation  using  free()  during  linked  list 
+challenges in selecting correct parameters.  
+Key challenges & Learnings           Γ£ô    Implemented string manipulation (pattern matching) using library functions; faced 
+File Organization, Functions, Command Line Arguments (argc, argv) 
+Technologies used                             Advanced C ΓÇô Linked Lists, Structures, Pointers, Dynamic Memory Allocation, 
+ 
+precision calculations. 
+in  areas  like  cryptography,  scientific  computing,  and  any  application  requiring  high- 
+ensuring that the results are precise regardless  of their size. This capability is important 
+focuses on developing efficient algorithms to handle these large  numbers accurately, 
+addition, subtraction, multiplication, and division for very large numbers. The project 
+Project  brief                                      The  objective  of  this  project  is  to  perform  basic  mathematical  operations  such  as 
+Git Hub URL                                    https://github.com/Eswarp2004/Arbitrary  -Precision -Calculator -APC-.git 
+Title                                                   Arbitrary Precision Calculator 
+          Project Number:5 
+ 
+frequencies. 
+files;  solved  by  building  a  structured  node  system  to  track  file  occurrences  and 
+Γ£ô    Faced  challenges  in  maintaining  accurate  word-to-file  mappings  across  multiple 
+by integrating a duplicate-checking mechanism within the data insertion logic. 
+Γ£ô    Encountered repeated entries during word parsing across multiple files; resolved 
+tracking dynamic memory usage and performing step-by-step debugging. 
+Key challenges & Learnings            Γ£ô  Struggled with memory leaks and segmentation faults; resolved by  carefully 
+Allocation, File Handling, Functions 
+Technologies used                             Advanced C ΓÇô Structures, Linked Lists, Hashing, Pointers, Dynamic Memory 
+ 
+accurate full-text searches across the entire document set.  
+a  custom  indexing  structure  for  efficient  retrieval.  The  final  output  allows  fast  and 
+multiple documents. Parsed each file to extract words, then stored their locations using 
+Project brief                                      the objective was to build an inverted index to map words to their occurrences across 
+Git Hub URL                                   https://github.com/Eswarp2004/Inverted-search-engine.git 
+Title                                                   Inverted Search Engine 
+Project Number:4 
+----------------Page (2) Break----------------
+ 
+ 
+ 
+ 
+ 
+and autonomous navigation techniques.  
+Γ£ô    Gained experience in robotic control systems, sensor integration, path planning, 
+monitoring and route adjustment.  
+Γ£ô    Integrated GPS-based tracking and autonomous navigation for location 
+movement and direction control.  
+Γ£ô    Controlled DC motors using the L298N Motor Driver Module to achieve smooth 
+correction using ESP32-CAM and Robot Operating System. 
+Key challenges & Learnings 
+Γ£ô    Developed  an autonomous robot capable of obstacle detection and automatic path 
+Technologies used                             ESP32-CAM,GPS Module, DC Motors, Wi-Fi Communication 
+ 
+and robotics development.  
+planning, mak ing it highly suitable for academic research, embedded systems   learning, 
+exposure  to  real -world  robotic  navigation,  sensor  integration,  and  intelligent  path 
+embedded  systems,  computer  vision,  and  ROS-based  simulations.  It  offers  hands-on 
+Project brief                                      This  project  provides  a  practical  implementation  of  autonomous  robotics  using 
+Title                                                Autonomous Navigation and Scanning System 
+ 
+ 
+ACADEMIC PROJECTS 
+ 
+ 
+ 
+ 
+command-line arguments while implementing the program in C. 
+Γ£ô    Developed  a  strong  practical  understanding  of  file  handling,  pointers,  and 
+by initializing pointers properly and validating memory allocations before use.  
+Γ£ô    Initially  faced  segmentation  faults  due to improper pointer handling; overcame this 
+phone numbers and email addresses for unique identification        
+and   update   operations;   overcame   this   by implementing    additional   checks   using 
+Key  challenges  & Learnings             Γ£ô    Encountered  issues  with  duplicate  contact  names  while  performing  search,  delete,  
+Technologies used                             Advanced C ΓÇô File operations, Pointers, Functions, Dynamic memory management 
+ 
+addresses, updating numbers and email addresses, and deleting contacts.         
+numbers  and  e-mail  addresses,  searching  names  and associated  numbers  and  email 
+application  which  uses  standard  I/O for adding  and deleting  contact  names,  phone 
+names and telephone/mobile numbers and e    -mail addresses. It is a console    -based 
+Project  brief                                       The Address Book is a small application written in C language. It keeps track of 
+Git Hub URL                                    https://github.com/Eswarp2004/AddressBook_project.git      
+Title                                                   Address Book 
+Project Number:7 
+----------------Page (3) Break----------------
+

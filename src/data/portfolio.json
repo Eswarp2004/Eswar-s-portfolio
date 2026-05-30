@@ -1,0 +1,210 @@
+{
+  "profile": {
+    "name": "Potluru Penchala Eswar",
+    "shortName": "Eswar",
+    "tagline": "Building robust systems from silicon to software",
+    "role": "Embedded & Systems Software Engineer",
+    "specialization": "Systems & Embedded Software",
+    "location": "India",
+    "bio": "Fresh Electronics & Communication Engineering graduate with a strong foundation in C/C++ and system-level programming. I am currently undergoing an Advanced Embedded Systems Course at Emertxe Information Technologies, enhancing my skills in system programming, Linux, and network programming. Through hands-on academic projects, I've gained real experience in hardware-software co-development, low-level communication protocols (UART, SPI, I2C), and real-time system diagnostics. I am passionate about deconstructing complex problems into efficient, elegant code and building reliable embedded systems.",
+    "avatarSvg": "",
+    "social": {
+      "github": "https://github.com/Eswarp2004",
+      "instagram": "",
+      "linkedin": "https://linkedin.com/in/penchala-eswar-potluru",
+      "email": "eswarp2004@gmail.com",
+      "phone": "+91 6303011329",
+      "website": ""
+    }
+  },
+  "skills": {
+    "categories": [
+      {
+        "name": "Languages & Core",
+        "items": ["C++", "C", "Python", "Bash", "Data Structures & Algorithms"]
+      },
+      {
+        "name": "Systems & Embedded",
+        "items": ["Linux (Ubuntu)", "PIC16F877A", "ESP32", "Raspberry Pi", "ARM-Linux-gcc", "MPLAB"]
+      },
+      {
+        "name": "Protocols & Interfaces",
+        "items": ["UART", "SPI", "I2C", "CAN Bus", "TCP/UDP Sockets"]
+      },
+      {
+        "name": "System Programming",
+        "items": ["Linux Kernel System Calls", "Network Programming", "IPC (Pipe, FIFO, Shared Memory)"]
+      },
+      {
+        "name": "Build & Diagnostics",
+        "items": ["Git", "GitHub", "GCC", "XC8", "GDB", "Memory Profiling"]
+      },
+      {
+        "name": "Concepts & Design",
+        "items": ["OOP", "Advanced C Programming", "Manual Memory Management", "Compiler Design"]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": "car-black-box",
+      "title": "Car Black Box",
+      "subtitle": "Embedded Systems Project",
+      "description": "Developed a Car Black Box system to monitor and log critical vehicle data in real time using the I²C communication protocol. Captured parameters via sensors, synchronized with precise timestamp information provided by a Real-Time Clock (RTC), and stored in an external EEPROM for non-volatile secure data retention.",
+      "stack": ["PIC16F877A", "I²C", "UART", "RTC", "EEPROM", "Embedded C"],
+      "role": "Solo Developer",
+      "year": "2026",
+      "link": "https://github.com/Eswarp2004/car_black_box_project.git",
+      "image": "/projects/car_black_box.png",
+      "highlight": true
+    },
+    {
+      "id": "nav-system",
+      "title": "Autonomous Navigation & Scanning System",
+      "subtitle": "Academic Project",
+      "description": "Developed an autonomous robot capable of obstacle detection and automatic path correction using ESP32-CAM and Robot Operating System. Integrated GPS-based tracking and controlled DC motors using the L298N Motor Driver Module for smooth movement.",
+      "stack": ["ESP32-CAM", "GPS Module", "DC Motors", "Wi-Fi Communication", "ROS"],
+      "role": "Lead Developer",
+      "year": "2024",
+      "link": "",
+      "image": "/projects/nav_system.png",
+      "highlight": true
+    },
+    {
+      "id": "lexical-analyzer",
+      "title": "Lexical Analyzer",
+      "subtitle": "Compiler Design Project",
+      "description": "Built a program that converts a stream of characters into lexical tokens such as keywords, identifiers, and symbols. Implemented file handling techniques in C to read and process source code files line by line, and utilized string comparison and pattern matching for classification.",
+      "stack": ["C", "Lexical Analysis", "File Handling", "Tokenization"],
+      "role": "Solo Developer",
+      "year": "2023",
+      "link": "https://github.com/Eswarp2004/lexical-analysis.git",
+      "image": "/projects/lexical_analyzer.png",
+      "highlight": true
+    },
+    {
+      "id": "mp3-tag-reader",
+      "title": "MP3 Tag Reader",
+      "subtitle": "Advanced C Project",
+      "description": "Developed a software application to read and display MP3 (ID3) tag information from MP3 files. Strengthened skills in binary file parsing, hexadecimal data interpretation, and correct byte order conversion (big-endian to little-endian) to handle multi-byte fields.",
+      "stack": ["Advanced C", "Binary Parsing", "Bitwise Operations", "Pointers"],
+      "role": "Solo Developer",
+      "year": "2026",
+      "link": "https://github.com/Eswarp2004/mp3-tag-reader.git",
+      "image": "/projects/mp3_tag_reader.png",
+      "highlight": true
+    },
+    {
+      "id": "steganography",
+      "title": "Image Steganography using LSB",
+      "subtitle": "Advanced C Project",
+      "description": "Created a command-line tool to hide secret information within a BMP image file without altering its visible properties. Manipulated the least significant bits (LSB) of the image data, handled encoding and decoding of message lengths, and resolved issues with shifting and masking bits.",
+      "stack": ["C", "Bitwise Ops", "Binary I/O", "CLI", "Dynamic Memory"],
+      "role": "Solo Developer",
+      "year": "2025",
+      "link": "https://github.com/Eswarp2004/lsb-steganography.git",
+      "image": "/projects/steganography.png",
+      "highlight": false
+    },
+    {
+      "id": "apc",
+      "title": "Arbitrary Precision Calculator",
+      "subtitle": "Advanced C Project",
+      "description": "Developed an Arbitrary Precision Calculator to perform basic mathematical operations (addition, subtraction, multiplication, division) on very large numbers, ensuring exact results regardless of data size.",
+      "stack": ["C", "Linked Lists", "Pointers", "Dynamic Memory Allocation"],
+      "role": "Solo Developer",
+      "year": "2026",
+      "link": "https://github.com/Eswarp2004/Arbitrary-Precision-Calculator-APC-.git",
+      "image": "/projects/apc.png",
+      "highlight": false
+    },
+    {
+      "id": "search-engine",
+      "title": "Inverted Search Engine",
+      "subtitle": "Advanced C Project",
+      "description": "Built an inverted index to map words to their occurrences across multiple documents. Parsed files to extract words and stored locations using custom indexing structures (hashing, linked lists) for efficient retrieval.",
+      "stack": ["C", "Hashing", "Linked Lists", "Memory Mgmt"],
+      "role": "Solo Developer",
+      "year": "2026",
+      "link": "https://github.com/Eswarp2004/Inverted-search-engine.git",
+      "image": "/projects/search_engine.png",
+      "highlight": false
+    },
+    {
+      "id": "address-book",
+      "title": "Address Book",
+      "subtitle": "Advanced C Project",
+      "description": "Developed a console-based contact management application with standard I/O for adding, updating, searching, and deleting contacts. Managed file operations and dynamic memory effectively to prevent segmentation faults.",
+      "stack": ["C", "File Operations", "Pointers", "Functions"],
+      "role": "Solo Developer",
+      "year": "2025",
+      "link": "https://github.com/Eswarp2004/AddressBook_project.git",
+      "image": "/projects/address_book.png",
+      "highlight": false
+    }
+  ],
+  "education": [
+    {
+      "degree": "Advanced Embedded Systems Course",
+      "institution": "Emertxe Information Technologies, Bangalore",
+      "period": "Present",
+      "score": "Skill India / NSDC Certified",
+      "coursework": ["System Programming", "Network Programming", "PIC16F877A", "Linux Kernel"]
+    },
+    {
+      "degree": "B.E. in Electronics & Communication Engineering",
+      "institution": "Sathyabama Institute of Science and Technology",
+      "period": "2021 – 2025",
+      "score": "GPA: 7.36 / 10",
+      "coursework": ["Embedded Systems", "Microprocessors", "Control Systems", "Digital Signal Processing", "IoT", "VLSI"]
+    },
+    {
+      "degree": "Intermediate (M.P.C)",
+      "institution": "Narayana Junior College",
+      "period": "2021",
+      "score": "856 Marks",
+      "coursework": []
+    },
+    {
+      "degree": "Secondary School Certificate",
+      "institution": "Sree Krishna English Medium School",
+      "period": "2019",
+      "score": "GPA: 7.8 / 10",
+      "coursework": []
+    }
+  ],
+  "competencies": [
+    {
+      "title": "Systems Integration & Testing",
+      "description": "Setting up hardware rigs, validating propulsion controls, wiring signal buses, and end-to-end system verification."
+    },
+    {
+      "title": "Debugging & Diagnostics",
+      "description": "Methodical debugging approaches, memory profiling, and root-cause analysis for hardware-software issues in C."
+    },
+    {
+      "title": "System Programming",
+      "description": "Linux kernel system calls, TCP/UDP network programming, and IPC mechanisms (Pipe, FIFO, Shared Memory)."
+    },
+    {
+      "title": "Collaboration & Adaptability",
+      "description": "Effective communicator who values teamwork, adaptable to new technologies and quick at grasping complex technical concepts."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "quote": "Eswar has an exceptional ability to break down complex system-level problems into clean, maintainable code. His work on the navigation system was outstanding.",
+      "name": "Dr. S. Ramesh",
+      "role": "Professor, ECE Department",
+      "avatarColor": "#8B5CF6"
+    },
+    {
+      "id": "t2",
+      "quote": "His attention to detail in debugging and memory management is rare for someone at his level. The steganography tool was a masterclass in low-level C programming.",
+      "name": "Prof. Anitha K.",
+      "role": "Project Guide",
+      "avatarColor": "#EC4899"
+    }
+  ]
+}
