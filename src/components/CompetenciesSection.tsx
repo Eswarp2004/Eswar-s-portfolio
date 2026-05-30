@@ -1,12 +1,12 @@
 import { motion } from "framer-motion";
-import { Target, Bug, FileText, Users } from "lucide-react";
+import { Target, Bug, Terminal, Users } from "lucide-react";
 import { usePortfolio } from "../hooks/usePortfolio";
 import type { LucideIcon } from "lucide-react";
 
 const ICONS: Record<string, LucideIcon> = {
   "Systems Integration & Testing": Target,
   "Debugging & Diagnostics": Bug,
-  "Technical Documentation": FileText,
+  "System Programming": Terminal,
   "Collaboration & Adaptability": Users,
 };
 
